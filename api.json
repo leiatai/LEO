@@ -31,7 +31,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar": "./lib/danmu.jar;md5;1d0a74ff670d78850fd443840fb66c88"
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leotvgo/tv/main/lib/danmu.jar;md5;876cc23e7c0ab92b73568862ec5b42a5"
     },
     {
       "key": "南瓜",
